@@ -227,10 +227,6 @@ The project uses Vite with React and Tailwind CSS plugins for optimal developmen
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - **Ant Design** team for the beautiful UI components
